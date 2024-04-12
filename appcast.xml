@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 3.6.3</title>
+            <title>Version 3.5.3</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=jyotishvivkosh.mobileapplication" sparkle:version="3.6.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=jyotishvivkosh.mobileapplication" sparkle:version="3.5.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
